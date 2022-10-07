@@ -2,6 +2,7 @@ import '@fontsource/roboto/300.css';
 import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
+import '../styles/globals.css'
 import companyLogo from '../public/FleeceFinalLogo_Brandsmith_Color.png'
 import { AppBar, Box, Toolbar, Typography, Avatar } from "@mui/material"
 import Image from 'next/image'
